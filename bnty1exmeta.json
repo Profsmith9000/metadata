@@ -17,7 +17,8 @@
      "comment": "A reduction in the fixed-fee, along with an implementation of a variable fee makes more sense."
   },
   "https://spovotes.com/votes/change-min-fixed-fee-to-variable/": {
-     "vote": "Yes"
+     "vote": "Yes",
+     "comment": "The minimum fixed fee is one of the biggest factors in preventing smaller pools from organic growth and has been since the launch of Shelley. Variable is the way to go."
   },
   "https://spovotes.com/votes/reduce-min-fee/": {
      "vote": "Yes"
