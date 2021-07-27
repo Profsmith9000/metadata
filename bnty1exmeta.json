@@ -14,7 +14,13 @@
   "votes": {
   "https://spovotes.com/votes/remove-min-fee/": {
 	"vote": "No",
-	"comment": "A reduction in fixed-fee, along with an implementation of a variable fee makes more sense."
-  }
+	"comment": "A reduction in the fixed-fee, along with an implementation of a variable fee makes more sense."
+  },
+  "https://spovotes.com/votes/change-min-fixed-fee-to-variable/": {
+	"vote": "Yes"
+  },
+   "https://spovotes.com/votes/reduce-min-fee/": {
+    "vote": "Yes"
+  }	 
   }
 }
